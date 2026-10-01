@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">送货单打印网关</string>
+    <string name="view_records">查看打印记录</string>
+    <string name="storage_title">打印记录（本地）</string>
+    <string name="search_hint">搜索单号或内容关键字</string>
+    <string name="del_day">按日期删除</string>
+    <string name="del_range">时间段删除</string>
+    <string name="clear_all">清空全部</string>
+    <string name="delete">删除</string>
+    <string name="confirm_title">确认删除</string>
+    <string name="confirm_clear">确定清空全部记录？此操作不可恢复</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确定</string>
+    <string name="close">关闭</string>
+    <string name="empty_hint">暂无打印记录</string>
+    <string name="count_format">共 %d 条</string>
+    <string name="auto_print">自动打印（关闭则仅存档，到此处手动打印）</string>
+    <string name="print">打印</string>
+    <string name="printed_ok">已发送至打印机</string>
+    <string name="print_failed">打印机未连接，无法打印</string>
+    <string name="no_print_data">该记录无可打印数据</string>
+</resources>
